@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Modern Office Chair",
+      "category": "Furniture",
+      "brand": "ErgoSoft",
+      "size": "Standard",
+      "color": "Black",
+      "price": 5599,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1OUopjDZTFw4nr6c1vICeJ0utufMl4rWvQ&s"
+    },
+    {
+      "id": 2,
+      "name": "Smart LED TV 50 inch",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "size": "50 inch",
+      "color": "Black",
+      "price": 44999,
+      "image": "https://files.vplak.com/500-images/samsung/TU8000/black/image-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "brand": "Sony",
+      "size": "One Size",
+      "color": "Blue",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61XvYOrqVeL.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Casual Denim Jacket",
+      "category": "Clothing",
+      "brand": "Zara",
+      "size": "M",
+      "color": "Blue",
+      "price": 2599,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XNDaYTbWQHDJQNDLtrIjAD7PQCV7o2p1bA&s"
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "Nike",
+      "size": "10",
+      "color": "Grey",
+      "price": 3799,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZXjBuKPHYbv71Zah-lRYMTZxhf3UGPi5-cXJ5VhQ_NJgr86JIlFXxG6Y-4K5Tn8MMj4uEMJ_0_E_Tab55NdSvMwePZyCg6km15wd3sDvyePVnt62V2dNI"
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Accessories",
+      "brand": "HydroMax",
+      "size": "1L",
+      "color": "Silver",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/41UaKcWbhSL.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "brand": "JBL",
+      "size": "Small",
+      "color": "Red",
+      "price": 2499,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMT6IbXaC09cOtoKsAMXqt8ozpPQyC9DNPj2VVfkYXoW4b5rMvEPGSLrwtC4VuLofj7-gUs5WZinQubCeF1-lvLM9gitae9rfoIy0Ty_k"
+    },
+    {
+      "id": 8,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "brand": "WildHorn",
+      "size": "Standard",
+      "color": "Brown",
+      "price": 999,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDwzj79vSJ-BYRX4n6lbF7PQobJC5VWeNdsUziA9P1tRwuimYoY1pyZCd1T4XwAzo2mXX4qkCLZlvAVV7uks5yAhNz5Uhb28-cm9X31FpAkr-rpjkk-cJMaQ"
+    },
+    {
+      "id": 9,
+      "name": "Smartphone - Android 13",
+      "category": "Mobiles",
+      "brand": "OnePlus",
+      "size": "6.5 inch",
+      "color": "Black",
+      "price": 34999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB6EA7TYcHnP-9HH1cKK2ZQ0E1Hf04g6Cow&s"
+    },
+    {
+      "id": 10,
+      "name": "Minimalist Wrist Watch",
+      "category": "Accessories",
+      "brand": "Fossil",
+      "size": "Standard",
+      "color": "Black",
+      "price": 6599,
+      "image": "https://images-cdn.ubuy.co.in/6638f67565311855770cf9cf-men-39-s-fashion-minimalist-wrist.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Travel Backpack",
+      "category": "Bags",
+      "brand": "Skybags",
+      "size": "35L",
+      "color": "Navy",
+      "price": 1899,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjKblH0y2zhggGT_Ln_bbrBsRUjIRndiH_ZfdowXEjbZLLJ9dmJw7tCEBhdClSdBth2W4P7t-3wxcOxZHEbtX480qUheG6yVgK-sV-uwrfhaB8yZhc9aK0kQ"
+    },
+    {
+      "id": 12,
+      "name": "Cotton Hoodie",
+      "category": "Clothing",
+      "brand": "HRX",
+      "size": "L",
+      "color": "Olive Green",
+      "price": 1499,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTCWXEnZH2X76devEcDF1KrYSl1kNJyt0oQ&s"
+    },
+    {
+      "id": 13,
+      "name": "Noise Smartwatch",
+      "category": "Gadgets",
+      "brand": "Noise",
+      "size": "44mm",
+      "color": "Silver",
+      "price": 4999,
+      "image": "https://mobitez.in/wp-content/uploads/2024/04/Noise-Twist-Silver-Grey.webp"
+    },
+    {
+      "id": 14,
+      "name": "Foldable Sunglasses",
+      "category": "Accessories",
+      "brand": "Ray-Ban",
+      "size": "Free",
+      "color": "Black",
+      "price": 3499,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHly9JZRXMEGVsChswRzHhtNOTFmsXlm8HxC83ulKGEGVCqy1FZ_TbrWM-nO7hrebNV5YkWAfL0wL81lbzExhC_vVQY4Qqj_Cq396OCR6QLfyYFI8jqrYBpg"
+    },
+    {
+      "id": 15,
+      "name": "Portable Laptop Stand",
+      "category": "Office Supplies",
+      "brand": "ErgoLift",
+      "size": "Adjustable",
+      "color": "Grey",
+      "price": 1399,
+      "image": "https://www.amkette.com/cdn/shop/products/Ergo-Luxe-Laptop-Stand-Hero.png?v=1668485091"
+    }
+  ]
+}
